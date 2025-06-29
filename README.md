@@ -1,12 +1,5 @@
 Pokemon app built with Flutter
 
-## App preview
-
-![Home](screenshots/home.png "Home")
-![News](screenshots/home-news.png "News")
-![Pokedex](screenshots/pokedex.png "Pokedex")
-![Pokedex FAB](screenshots/pokedex-fab.png "Pokedex FAB")
-
 
 ## Installation
 
