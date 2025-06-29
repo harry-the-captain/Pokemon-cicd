@@ -1,11 +1,4 @@
-# Flutter Pokedex
-
-[![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg)](https://github.com/Solido/awesome-flutter)
-[![Codemagic build status](https://api.codemagic.io/apps/5d3727997dee22001bb7681c/5d3727997dee22001bb7681b/status_badge.svg)](https://codemagic.io/app/5d3727997dee22001bb7681c/5d3727997dee22001bb7681b/latest_build)
-[![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](LICENSE)
-[![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
-
-Pokedex app built with Flutter
+Pokemon app built with Flutter
 
 ## App preview
 
@@ -13,14 +6,7 @@ Pokedex app built with Flutter
 ![News](screenshots/home-news.png "News")
 ![Pokedex](screenshots/pokedex.png "Pokedex")
 ![Pokedex FAB](screenshots/pokedex-fab.png "Pokedex FAB")
-![Pokedex Generation](screenshots/pokedex-fab-generation.png "Pokedex Generation")
-![Pokemon Info - About](screenshots/pokemon-info-about.png "Pokemon Info - About")
-![Pokemon Info - Base Stats](screenshots/pokemon-info-base-stats.png "Pokemon Info - Base Stats")
-![Pokemon Info - Evolution](screenshots/pokemon-info-evolution.png "Pokemon Info - Evolution")
-![Pokemon Info - Base Stats (Expanded)](screenshots/pokemon-info-expanded.png "Pokemon Info - Base Stats (Expanded)")
 
-## Video demo
-[![Demo](screenshots/thumbnail.png)](https://www.youtube.com/watch?v=qKrFWerjoV8)
 
 ## Installation
 
@@ -52,12 +38,4 @@ Pokedex app built with Flutter
 - [x] Pokemon Info - Add Base Stats data by [balvinderz](https://github.com/balvinderz)
 - [x] Pokemon Info - Add Evolution data by [balvinderz](https://github.com/balvinderz)
 
-## Thanks
 
-- [Saepul Nahwan](https://dribbble.com/saepulnahwan23) for his [Pokedex App design](https://dribbble.com/shots/6545819-Pokedex-App)
-- [Sabri Bey](https://www.deviantart.com/sabribey) for the Pikachu gif
-- [Flutter](https://flutter.dev) for the great cross platform framework
-
-## License
-
-All the code available under the MIT + Apache 2.0. licenses. See [LICENSE](LICENSE).
