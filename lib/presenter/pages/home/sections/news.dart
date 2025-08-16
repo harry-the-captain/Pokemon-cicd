@@ -31,7 +31,7 @@ class _NewsSection extends StatelessWidget {
           itemBuilder: (_, __) {
             return const _NewsListTile(
               title: 'Pokémon Rumble Rush Arrives Soon',
-              time: '15 May 2019',
+              time: '20 May 2025',
               thumbnail: AssetImage('assets/images/thumbnail.png'),
             );
           },
